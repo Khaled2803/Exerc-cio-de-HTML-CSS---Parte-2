@@ -49,6 +49,10 @@ body {
 
 
 
-.img{
-    width:100%;
+#img{
+    position:relative;
+    top:150px;
+    right:50px;
+    width:700px;
+    float:right;
 }
